@@ -1,12 +1,12 @@
 # ¡Hola! Soy Yamil Meléndez 👋🛡️
 
-### Estudiante de Ingeniería en Computación | Enfocado en Ciberseguridad
+### Estudiante de Ingeniería en Computación | UNAM
 
-Actualmente estudio en la **UNAM** y me estoy especializando en ciberseguridad, automatización y análisis de datos. Me apasiona entender cómo funcionan los sistemas desde su núcleo y construir herramientas seguras.
+Estudiante de la UNAM de día, rompiendo (y arreglando) código de noche. Me gusta meterme a las tripas de los sistemas para entender cómo funcionan, automatizar lo aburrido y aprender a protegerlos. Mi objetivo a mediano plazo es especializarme en Ciberseguridad.
 
-## 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** Python, C
-* **Sistemas & Datos:** Linux, Excel Avanzado, Power BI, SQL (en progreso)
+## 🛠️ Mi Stack y Herramientas
+* **Lenguajes:** Python (Automatización) y C (Estructuras y Punteros)
+* **Sistemas & Datos:** Linux, Excel Avanzado, Power BI
 * **Soft Skills:** Liderazgo, Comunicación Estratégica, Resolución de Problemas
 
 ## 🎓 Certificaciones Destacadas
@@ -15,9 +15,9 @@ Actualmente estudio en la **UNAM** y me estoy especializando en ciberseguridad, 
 * 🤖 **IA Generativa y Prompting Responsable** - MIT & Microsoft Founderz
 * 📊 **Introducción a la Ciencia de Datos** - IE University
 
-## 🚀 Lo que estoy haciendo ahora
-- Construyendo proyectos de automatización en Python.
-- Profundizando en estructuras de datos y punteros en C.
-- Buscando mi primera oportunidad como becario/trainee en el sector tecnológico.
+## 🚀 ¿En qué ando ahora?
+- Trasteando con proyectos de automatización y scripts en Python.
+- Sobreviviendo a la gestión de memoria en C en la Facultad.
+- Buscando mi primera oportunidad como becario/trainee en el sector tech o seguridad.
 
 📫 **Contáctame en:** melendezyamil390@gmail.com
