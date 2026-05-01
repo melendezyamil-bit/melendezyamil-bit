@@ -15,7 +15,7 @@ Estudiante de la UNAM de día, rompiendo (y arreglando) código de noche. Me gus
 * 🤖 **IA Generativa y Prompting Responsable** - MIT & Microsoft Founderz
 * 📊 **Introducción a la Ciencia de Datos** - IE University
 
-## 🚀 ¿En qué ando ahora?
+## 🚀 ¿En qué estoy trabajando ahora?
 - Trasteando con proyectos de automatización y scripts en Python.
 - Sobreviviendo a la gestión de memoria en C en la Facultad.
 - Buscando mi primera oportunidad como becario/trainee en el sector tech o seguridad.
